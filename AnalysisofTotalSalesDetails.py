@@ -9,7 +9,7 @@ from openpyxl.styles import Alignment
 from openpyxl.utils import get_column_letter
 
 # GitHub raw link to fetch updates
-GITHUB_URL = "https://github.com/mohamedmajid91/Analysisof-Total-Sales-Details/blob/main/Analysis%20of%20Total%20Sales%20Details.py"
+GITHUB_URL = "https://raw.githubusercontent.com/mohamedmajid91/AnalysisofTotalSalesDetails/refs/heads/main/AnalysisofTotalSalesDetails.py"
 
 # Global variable to store the file path
 file_path = ""
